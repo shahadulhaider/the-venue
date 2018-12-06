@@ -8,7 +8,7 @@ const VenueInfo = () => {
   return (
     <div className="bck_black">
       <div className="center_wrapper">
-        <dir className="vn_wrapper">
+        <div className="vn_wrapper">
           <Zoom duration={500}>
             <div className="vn_item">
               <div className="vn_outer">
@@ -43,7 +43,7 @@ const VenueInfo = () => {
               </div>
             </div>
           </Zoom>
-        </dir>
+        </div>
       </div>
     </div>
   );
