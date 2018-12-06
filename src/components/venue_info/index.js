@@ -38,7 +38,7 @@ const VenueInfo = () => {
                     }}
                   ></div>
                   <div className="vn_title">Event Location</div>
-                  <div className="vn_desc">ARMY Stadium, Dhaka</div>
+                  <div className="vn_desc">Sena Malancha, Dhaka</div>
                 </div>
               </div>
             </div>
